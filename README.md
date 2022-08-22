@@ -26,3 +26,8 @@ $ `start node server.js`
 <hr>
 
 #### Abra http://localhost:3000/ em seu navegador 
+
+
+## | Documentação Json Server |
+
+https://github.com/typicode/json-server
