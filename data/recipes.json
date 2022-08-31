@@ -1,13 +1,13 @@
 [
   {
-    "slug": "molho-pesto",
-    "image": "https://img.itdg.com.br/tdg/images/recipes/000/005/887/346227/346227_original.jpg?mode=crop&width=710&height=400",
-    "title": "Molho Pesto",
-    "subtitle": "Molho Pesto de Hortelã",
-    "ingredients": "2 xícaras (de chá) de folhas de hortelã higienizadas (cerca de 50g ou 1 maço),\n1/3 de xícara (de chá) de nozes ou castanhas,\n1 dente de alho pequeno sem o miolo, 1/2 xícara (de chá) de azeite,\n1/2 colher (de sopa) de suco de limão,\nSal e pimenta a gosto.",
-    "phases": "Lave rapidamente um maço de hortelã fresca.\nDeixe de molho em um litro de água com uma colher de sopa de água sanitária por 15 minutos para uma melhor higienização.\nEscorra, enxágue e seque bem com papel toalha ou com um pano de prato limpo.\nRemova as folhas e separe cerca de 2 xícaras ou 50g pra esta receita.\nColoque essas folhas em um liquidificador ou processador, adicione as nozes ou castanhas, o alho sem o miolo, o azeite, tempere com sal e pimenta a gosto e com o suco de limão.\nBata bem, até obter uma mistura unitorme.\nSe precisar, pare e mexa.",
+    "slug": "tofu-xadrez",
+    "image": "https://www.vista-se.com.br/wp-content/uploads/2017/02/1-28.jpg",
+    "title": "Tofu Xadrez",
+    "subtitle": "Tofu Xadrez Vegano",
+    "ingredients": "300g de tofu firme cortado em cubinhos com cerca de 2,5cm\n2 dentes de alho picados\n3 xícaras (de chá) de pimentão cortado em quadradinhos de 2x2cm\n1 colher (de sopa) de gengibre ralado\n1 e 1/2 xícara (de chá) de cebola cortada em quadradinhos de 2x2cm\n1/2 colher (de sopa) de açúcar\n1/3 de xícara (de chá) de shoyu ou mais se você preferir\n1/2 xícara (de chá) de água misturada com 3 colheres de (chá) de amido de milho\n1/2 xícara (de chá) de amendoim torrado, sem sal e sem pele\nSal a gosto\nÓleo de gergelim torrado a gosto",
+    "phases": "Corte o tofu em cubinhos com cerca de 2 ou 2,5cm. Coloque sobre uma folha de papel toalha para absorver o excesso de água. Em uma frigideira grande e antiaderente, coloque um fio de óleo vegetal, coloque os cubinhos de tofu, tempere com uma pitada de sal e deixe refogarem em fogo baixo até ficarem com as laterais bem douradinhas. Evite mexer, pois por mais que o tofu seja firme, os cubinhos podem desmanchar. Vi esta dica no canal Viewganas e ela é bem importante para preparar este xadrez. O tofu precisa estar fritinho e “selado”. Veja o vídeo delas, que mostra o ponto do tofu aqui. Vire cuidadosamente e tenha paciência. Reserve.\nEm uma outra panela em fogo médio, coloque um fio de óleo e refogue o alho rapidamente. Adicione os pimentões cortados e refogue por aproximadamente 2 minutos. Adicione o gengibre, a cebola, tempere com uma pitada de sal e refogue por mais 2 minutos. Adicione os cubinhos de tofu e acrescente o açúcar, e o shoyu. Misture e deixe cozinhar por cerca mais uns 3 minutos ou até o pimentão ficar levemente macio (Cuidado para os ingredientes não ficarem muito moles). Acrescente a água misturada com o amido de milho, misture para engrossar e desligue.\nAdicione o amendoim e finalize com óleo de gergelim torrado a gosto. Está pronto!",
     "type": "SALGADAS",
-    "id": 12
+    "id": 1
   },
   {
     "slug": "pao-de-chia",
@@ -40,14 +40,14 @@
     "id": 4
   },
   {
-    "slug": "bolo-de-limao",
-    "image": "https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolo-de-limao.jpg",
-    "title": "Bolo de Limão",
-    "subtitle": "Bolo de Limão Vegano, sem leite e ovos",
-    "ingredients": "2 xícaras (de chá) de farinha de trigo,\n1 xícara (de chá) de açúcar cristal,\n1/2 xícara (de chá) de óleo vegetal,\n3/4 de xícara (de chá) de água,\n1/4 de xícara (de chá) de suco de limão,\n2 colheres (de chá) de raspas de limão – do próprio limão taiti,\n1/4 de colher (de chá) de bicarbonato de sódio (ou uma pitada),\n1 e 1/2 colher (de chá) de fermento em pó,\n1/2 xícara (de chá) de açúcar de confeiteiro,\n2 ou 3 colheres (de sopa) de leite de coco,\nRaspas de limão para decorar",
-    "phases": "Pré-aqueça o forno a 210ºC e em uma vasilha, coloque a farinha de trigo, o açúcar, o óleo, a água, o suco e as raspas de limão.\nMisture bem até obter uma massa homogênea. Adicione o bicarbonato de sódio e o fermento em pó e misture novamente. Despeje a massa em uma forma untada com óleo e farinha e asse por cerca de 40 minutos ou até o bolo ficar douradinho. Para a cobertura, misture 1/2 xícara de açúcar de confeiteiro com 2 colheres de sopa de leite de coco ou 3, se você preferir mais molinho. Jogue sobre o bolo e decore com raspas de limão. Está pronto!",
+    "slug": "brigadeiro-vegano",
+    "image": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2016/11/brigadeiro-1024x576.jpg?x41527",
+    "title": "Brigadeiro Vegano",
+    "subtitle": "Brigadeiro Vegano, com Leite Condensado de Amendoim",
+    "ingredients": "1 litro de leite vegetal de sua preferência\n1/2 xícara (de chá) de açúcar demerara ou cristal\n2 colheres (de sopa) de cacau natural em pó\n1 pitada de sal\n1/4 de colher (de chá) de extrato de baunilha\n3 colheres (de chá) de óleo de coco ou outro óleo vegetal\nGranulados (existem veganos)",
+    "phases": "Coloque 1 litro de leite vegetal em uma panela alta,\nadicione o açúcar e deixe cozinhar em fogo baixo por cerca de 1 hora, mexendo de vez em quando. Seu leite condensado estará no ponto quanto estiver encorpado, firme e quase no ponto de brigadeiro mole.\nSe quiser, bata por 3 minutos para deixá-lo com uma textura mais bonita e cremosa.\nPra fazer o brigadeiro, coloque esse leite condensado em uma panela antiaderente, adicione o cacau natural em pó, uma pitada de sal, o extrato de baunilha e o óleo. Misture bem e deixe cozinhar em fogo baixo por cerca de 10 minutos. Procure mexer sempre para não queimar. Seu brigadeiro ficará no ponto de modelar quando você conseguir formar uma espécie de bola com a mistura, com a ajuda da espátula (veja o vídeo).\nEspalhe esse brigadeiro ainda quente em um prato untado e espere esfriar, para não queimar as mãos.\nUnte as mãos com óleo, modele os brigadeiros e já passe nos granulados, pois é mais fácil pra fixá-los.\nSe estiver difícil de fixar os granulados, molhe levemente as mãos com água ou unte novamente com óleo de coco ou outro óleo vegetal.\nEstá pronto!",
     "type": "DOCES",
-    "id": 10
+    "id": 5
   },
   {
     "slug": "almondegas-de-tofu",
@@ -90,14 +90,14 @@
     "id": 9
   },
   {
-    "slug": "brigadeiro-vegano",
-    "image": "https://static.clubedaanamariabraga.com.br/wp-content/uploads/2016/11/brigadeiro-1024x576.jpg?x41527",
-    "title": "Brigadeiro Vegano",
-    "subtitle": "Brigadeiro Vegano, com Leite Condensado de Amendoim",
-    "ingredients": "1 litro de leite vegetal de sua preferência\n1/2 xícara (de chá) de açúcar demerara ou cristal\n2 colheres (de sopa) de cacau natural em pó\n1 pitada de sal\n1/4 de colher (de chá) de extrato de baunilha\n3 colheres (de chá) de óleo de coco ou outro óleo vegetal\nGranulados (existem veganos)",
-    "phases": "Coloque 1 litro de leite vegetal em uma panela alta,\nadicione o açúcar e deixe cozinhar em fogo baixo por cerca de 1 hora, mexendo de vez em quando. Seu leite condensado estará no ponto quanto estiver encorpado, firme e quase no ponto de brigadeiro mole.\nSe quiser, bata por 3 minutos para deixá-lo com uma textura mais bonita e cremosa.\nPra fazer o brigadeiro, coloque esse leite condensado em uma panela antiaderente, adicione o cacau natural em pó, uma pitada de sal, o extrato de baunilha e o óleo. Misture bem e deixe cozinhar em fogo baixo por cerca de 10 minutos. Procure mexer sempre para não queimar. Seu brigadeiro ficará no ponto de modelar quando você conseguir formar uma espécie de bola com a mistura, com a ajuda da espátula (veja o vídeo).\nEspalhe esse brigadeiro ainda quente em um prato untado e espere esfriar, para não queimar as mãos.\nUnte as mãos com óleo, modele os brigadeiros e já passe nos granulados, pois é mais fácil pra fixá-los.\nSe estiver difícil de fixar os granulados, molhe levemente as mãos com água ou unte novamente com óleo de coco ou outro óleo vegetal.\nEstá pronto!",
+    "slug": "bolo-de-limao",
+    "image": "https://vovopalmirinha.com.br/wp-content/uploads/2020/03/vovo-palmirinha-bolo-de-limao.jpg",
+    "title": "Bolo de Limão",
+    "subtitle": "Bolo de Limão Vegano, sem leite e ovos",
+    "ingredients": "2 xícaras (de chá) de farinha de trigo,\n1 xícara (de chá) de açúcar cristal,\n1/2 xícara (de chá) de óleo vegetal,\n3/4 de xícara (de chá) de água,\n1/4 de xícara (de chá) de suco de limão,\n2 colheres (de chá) de raspas de limão – do próprio limão taiti,\n1/4 de colher (de chá) de bicarbonato de sódio (ou uma pitada),\n1 e 1/2 colher (de chá) de fermento em pó,\n1/2 xícara (de chá) de açúcar de confeiteiro,\n2 ou 3 colheres (de sopa) de leite de coco,\nRaspas de limão para decorar",
+    "phases": "Pré-aqueça o forno a 210ºC e em uma vasilha, coloque a farinha de trigo, o açúcar, o óleo, a água, o suco e as raspas de limão.\nMisture bem até obter uma massa homogênea. Adicione o bicarbonato de sódio e o fermento em pó e misture novamente. Despeje a massa em uma forma untada com óleo e farinha e asse por cerca de 40 minutos ou até o bolo ficar douradinho. Para a cobertura, misture 1/2 xícara de açúcar de confeiteiro com 2 colheres de sopa de leite de coco ou 3, se você preferir mais molinho. Jogue sobre o bolo e decore com raspas de limão. Está pronto!",
     "type": "DOCES",
-    "id": 5
+    "id": 10
   },
   {
     "slug": "cookie-vegano",
@@ -110,74 +110,14 @@
     "id": 11
   },
   {
-    "slug": "tofu-xadrez",
-    "image": "https://www.vista-se.com.br/wp-content/uploads/2017/02/1-28.jpg",
-    "title": "Tofu Xadrez",
-    "subtitle": "Tofu Xadrez Vegano",
-    "ingredients": "300g de tofu firme cortado em cubinhos com cerca de 2,5cm\n2 dentes de alho picados\n3 xícaras (de chá) de pimentão cortado em quadradinhos de 2x2cm\n1 colher (de sopa) de gengibre ralado\n1 e 1/2 xícara (de chá) de cebola cortada em quadradinhos de 2x2cm\n1/2 colher (de sopa) de açúcar\n1/3 de xícara (de chá) de shoyu ou mais se você preferir\n1/2 xícara (de chá) de água misturada com 3 colheres de (chá) de amido de milho\n1/2 xícara (de chá) de amendoim torrado, sem sal e sem pele\nSal a gosto\nÓleo de gergelim torrado a gosto",
-    "phases": "Corte o tofu em cubinhos com cerca de 2 ou 2,5cm. Coloque sobre uma folha de papel toalha para absorver o excesso de água. Em uma frigideira grande e antiaderente, coloque um fio de óleo vegetal, coloque os cubinhos de tofu, tempere com uma pitada de sal e deixe refogarem em fogo baixo até ficarem com as laterais bem douradinhas. Evite mexer, pois por mais que o tofu seja firme, os cubinhos podem desmanchar. Vi esta dica no canal Viewganas e ela é bem importante para preparar este xadrez. O tofu precisa estar fritinho e “selado”. Veja o vídeo delas, que mostra o ponto do tofu aqui. Vire cuidadosamente e tenha paciência. Reserve.\nEm uma outra panela em fogo médio, coloque um fio de óleo e refogue o alho rapidamente. Adicione os pimentões cortados e refogue por aproximadamente 2 minutos. Adicione o gengibre, a cebola, tempere com uma pitada de sal e refogue por mais 2 minutos. Adicione os cubinhos de tofu e acrescente o açúcar, e o shoyu. Misture e deixe cozinhar por cerca mais uns 3 minutos ou até o pimentão ficar levemente macio (Cuidado para os ingredientes não ficarem muito moles). Acrescente a água misturada com o amido de milho, misture para engrossar e desligue.\nAdicione o amendoim e finalize com óleo de gergelim torrado a gosto. Está pronto!",
+    "slug": "molho-pesto",
+    "image": "https://img.itdg.com.br/tdg/images/recipes/000/005/887/346227/346227_original.jpg?mode=crop&width=710&height=400",
+    "title": "Molho Pesto",
+    "subtitle": "Molho Pesto de Hortelã",
+    "ingredients": "2 xícaras (de chá) de folhas de hortelã higienizadas (cerca de 50g ou 1 maço),\n1/3 de xícara (de chá) de nozes ou castanhas,\n1 dente de alho pequeno sem o miolo, 1/2 xícara (de chá) de azeite,\n1/2 colher (de sopa) de suco de limão,\nSal e pimenta a gosto.",
+    "phases": "Lave rapidamente um maço de hortelã fresca.\nDeixe de molho em um litro de água com uma colher de sopa de água sanitária por 15 minutos para uma melhor higienização.\nEscorra, enxágue e seque bem com papel toalha ou com um pano de prato limpo.\nRemova as folhas e separe cerca de 2 xícaras ou 50g pra esta receita.\nColoque essas folhas em um liquidificador ou processador, adicione as nozes ou castanhas, o alho sem o miolo, o azeite, tempere com sal e pimenta a gosto e com o suco de limão.\nBata bem, até obter uma mistura unitorme.\nSe precisar, pare e mexa.",
     "type": "SALGADAS",
-    "id": 1
-  },
-  {
-    "slug": "",
-    "image": "",
-    "title": "",
-    "subtitle": "",
-    "ingredients": "",
-    "phases": "",
-    "type": "",
-    "id": 13
-  },
-  {
-    "slug": "",
-    "image": "",
-    "title": "",
-    "subtitle": "",
-    "ingredients": "",
-    "phases": "",
-    "type": "",
-    "id": 14
-  },
-  {
-    "slug": "",
-    "image": "",
-    "title": "",
-    "subtitle": "",
-    "ingredients": "",
-    "phases": "",
-    "type": "",
-    "id": 15
-  },
-  {
-    "slug": "",
-    "image": "",
-    "title": "",
-    "subtitle": "",
-    "ingredients": "",
-    "phases": "",
-    "type": "",
-    "id": 16
-  },
-  {
-    "slug": "",
-    "image": "",
-    "title": "",
-    "subtitle": "",
-    "ingredients": "",
-    "phases": "",
-    "type": "",
-    "id": 17
-  },
-  {
-    "slug": "",
-    "image": "",
-    "title": "",
-    "subtitle": "",
-    "ingredients": "",
-    "phases": "",
-    "type": "",
-    "id": 18
+    "id": 12
   }
 ]
   
