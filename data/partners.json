@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://scontent.frec23-1.fna.fbcdn.net/v/t39.30808-6/294547000_536521498071091_7334103370141486384_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=OBknMTbLC_UAX-7njyb&_nc_ht=scontent.frec23-1.fna&oh=00_AT9AiP4vWUIAcJjjBfl6HlzIc1HVzpX4u6UT9zEwP0xXYw&oe=630350C1",
+    "image": "https://scontent.frec23-1.fna.fbcdn.net/v/t39.30808-6/294547000_536521498071091_7334103370141486384_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=acKAcroZE6YAX_zYM1i&_nc_ht=scontent.frec23-1.fna&oh=00_AT9x5VfwV3b1nfvZPEqNHj5KTr7015esWImPrk2-iXnYqg&oe=63151D01",
     "title": "Vegetariano JF",
     "subtitle": "Juiz de Fora",
     "description": "R. Dr. Maurício Guerra 42",
@@ -24,7 +24,7 @@
     "id": 3
   },
   {
-    "image": "https://scontent.frec23-1.fna.fbcdn.net/v/t39.30808-6/215242959_2100255940113511_1133880733250943791_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BrErASJOUDAAX8tLHmZ&_nc_ht=scontent.frec23-1.fna&oh=00_AT_E8_zpyDFgNfohouRDMtMmIiZRG2MmHsPzOV9pFcao5w&oe=630346FA",
+    "image": "https://scontent.frec23-1.fna.fbcdn.net/v/t39.30808-6/215242959_2100255940113511_1133880733250943791_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=aueXRNk-2TIAX9yXyXC&_nc_ht=scontent.frec23-1.fna&oh=00_AT-bSTJor76SZ9lW3kvK8Zz6UyFEJLgz6vy4W3fEKyIj8g&oe=6315133A",
     "title": "Verdelima Restaurante",
     "subtitle": "Fortaleza",
     "description": "R. Joaquim Nabuco, 1283",
@@ -64,7 +64,7 @@
     "id": 8
   },
   {
-    "image": "https://scontent.frec23-1.fna.fbcdn.net/v/t39.30808-6/253715138_4616508768416327_3041320788041620157_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=HWzTpCBzbTIAX9E-cTP&_nc_ht=scontent.frec23-1.fna&oh=00_AT-4f5Tts0qiQ_AJRFY0Sx87_AAdAmTGsm3SjJ5v10ycnA&oe=63040C80",
+    "image": "https://scontent.frec23-1.fna.fbcdn.net/v/t39.30808-6/253715138_4616508768416327_3041320788041620157_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=SZ9ogs9z9PwAX9OgRx5&_nc_ht=scontent.frec23-1.fna&oh=00_AT8rsHLky9n3lzz0tiLSo-hGPWgsghAHVkkCsU4clx4Xuw&oe=6315D8C0",
     "title": "Com Amor, Veg",
     "subtitle": "Pelotas",
     "description": "R. Marcílio Dias, 541",
@@ -136,14 +136,6 @@
     "id": 17
   },
   {
-    "image": "https://scontent.frec23-1.fna.fbcdn.net/v/t1.6435-9/183927413_4550784264949942_2829699567481289436_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=p_pjqdiPaEkAX_Eb__G&_nc_ht=scontent.frec23-1.fna&oh=00_AT_JsLvRH9cmIf-lIIaK_l2ND7elhxJEwcU56RVLV1VBtg&oe=6325F4FF",
-    "title": "ViaSete",
-    "subtitle": "Ipanema",
-    "description": "Rua Garcia d'Avila, 125",
-    "urlContact": "https://viasete.com.br/",
-    "id": 18
-  },
-  {
     "image": "https://d1fdloi71mui9q.cloudfront.net/dqmepb3RY6k9sdtXvnzq_fc216310262d13baeb95f06480fdb9be",
     "title": "Cantina Vegetariana",
     "subtitle": "Recife",
@@ -158,5 +150,5 @@
     "description": "R. Lopes Quintas, 37",
     "urlContact": "https://www.pranavegetariano.com/",
     "id": 20
-  } 
+  }
 ]
